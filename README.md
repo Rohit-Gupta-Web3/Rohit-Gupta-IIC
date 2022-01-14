@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohit-Gupta-IIC
 - 👀 I’m interested in Artificial Inttelligence, Blockchain, Python, Cognitive Robotics and human psycology.
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Blockchain Products
+- 🌱 I’m currently learning Full Stack Development (React, Node, MySQL, GraphQL, Express)
+- 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me 
 - 1. Twitter: @RohitGuptaAI
 - 2. Linkedin: @rohit-gupta-ai
