@@ -31,6 +31,12 @@ Enthusiast in **Artificial Intelligence** and **Blockchain**, currently sharpeni
 - 📚 Always exploring new trends in AI and Blockchain
 - 👥 Open to collaborate on full-stack projects
 
+### 💼 Expertise
+- 📈 Project management for cross-functional teams
+- 🤖 AI & Blockchain solutions architect
+- 🐍 Python scripting (intermediate)
+- 🎧 Vibe coder who loves creative hacks
+
 ### 🚀 Languages & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python" />
@@ -55,10 +61,6 @@ Enthusiast in **Artificial Intelligence** and **Blockchain**, currently sharpeni
 
 ### 🔥 My Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Rohit-Gupta-Web3&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Gupta-Web3&theme=tokyonight&layout=compact" height="220" alt="languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Gupta-Web3&show_icons=true&theme=tokyonight" height="220" alt="stats" />
-
 </div>
