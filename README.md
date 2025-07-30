@@ -60,4 +60,5 @@ Enthusiast in **Artificial Intelligence** and **Blockchain**, currently sharpeni
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Gupta-Web3&theme=tokyonight&layout=compact" height="220" alt="languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Gupta-Web3&show_icons=true&theme=tokyonight" height="220" alt="stats" />
+
 </div>
