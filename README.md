@@ -55,9 +55,10 @@ Enthusiast in **Artificial Intelligence** and **Blockchain**, currently sharpeni
 
 ### 🔥 My Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rohit-Gupta-Web3&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Rohit-Gupta-Web3&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Gupta-Web3&theme=tokyonight&layout=compact" height="220" alt="languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Gupta-Web3&show_icons=true&theme=tokyonight" height="220" alt="stats" />
+
 </div>
