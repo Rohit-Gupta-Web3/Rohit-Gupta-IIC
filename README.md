@@ -54,6 +54,16 @@ Enthusiast in **Artificial Intelligence** and **Blockchain**, currently sharpeni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
 </div>
 
+### 🌟 Featured Projects
+| Repository | Description | Stars |
+|-----------|-------------|:----:|
+| [Arohi-ALPR](https://github.com/Rohit-Gupta-Web3/Arohi-ALPR) | OpenALPR-based license plate recognition in Python | ![Stars](https://img.shields.io/github/stars/Rohit-Gupta-Web3/Arohi-ALPR?style=social) |
+| [People-Counter-OpenVino](https://github.com/Rohit-Gupta-Web3/People-Counter-OpenVino) | Counts people in a frame using Intel OpenVINO | ![Stars](https://img.shields.io/github/stars/Rohit-Gupta-Web3/People-Counter-OpenVino?style=social) |
+| [Smart-Assistant](https://github.com/Rohit-Gupta-Web3/Smart-Assistant) | Fullstack AI assistant built during a bootcamp | ![Stars](https://img.shields.io/github/stars/Rohit-Gupta-Web3/Smart-Assistant?style=social) |
+| [Knowledge-Engine](https://github.com/Rohit-Gupta-Web3/Knowledge-Engine) | Python knowledge engine project from AI bootcamp | ![Stars](https://img.shields.io/github/stars/Rohit-Gupta-Web3/Knowledge-Engine?style=social) |
+| [AlgoPy-Wallet](https://github.com/Rohit-Gupta-Web3/AlgoPy-Wallet) | Simple Algorand wallet scripts | ![Stars](https://img.shields.io/github/stars/Rohit-Gupta-Web3/AlgoPy-Wallet?style=social) |
+| [Smart-Queuing-System](https://github.com/Rohit-Gupta-Web3/Smart-Queuing-System) | Queue monitoring with Intel OpenVINO | ![Stars](https://img.shields.io/github/stars/Rohit-Gupta-Web3/Smart-Queuing-System?style=social) |
+
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rohit-Gupta-Web3&theme=tokyonight&margin-w=15" alt="trophies" />
